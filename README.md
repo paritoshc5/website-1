@@ -1,3 +1,4 @@
+Amazing thing you did for us. Thank you by fellow githubber.
 # Ember Website
 This is the legacy repository for the [Ember.js public website](https://emberjs.com). 
 
